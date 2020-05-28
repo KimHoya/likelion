@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  justify-content: space-around;
+  font-size: 2rem;
+}
+
+.card-text {
+  color: black;
+  font-size: x-large;
+}
+
+#text1 {
+  font-size: 2rem;
+  color: #007bff!important; */
+}
+
+#text2 {
+  color: black;
+  font-size: x-large;
+}
+
+img {
+  position: relative;
+  left: 620px;
+  bottom: 365px;
+}
